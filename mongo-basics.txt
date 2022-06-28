@@ -1,0 +1,10 @@
+ 1.   
+    Mongo - It is the command line shell
+    MongoD - 'Mongo Deamon' is responsible to host the process for database, does the actual work of storing database
+
+    With mongo, mongo compass is automatically downloaded
+    To use mongo anytime add its bin location to path env
+
+2. BSON
+    Binary JSON, more space efficient, not need of text-parsing which is slow in JSON, not limited datatypes
+
